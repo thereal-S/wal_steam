@@ -72,3 +72,5 @@ Options:
   -f --fonts           specify custom fonts
   -a --attempts        specify the max number of patch download attempts (DEFAULT=5)
 ```
+
+.
